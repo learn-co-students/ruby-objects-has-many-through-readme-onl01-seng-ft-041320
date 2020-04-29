@@ -182,6 +182,7 @@ describe "Object relationships" do
         lisa = Customer.new("Lisa", 27)
         josh = Customer.new("Josh", 31)
         steven = Customer.new("Steven", 28)
+        
         terrance = Waiter.new("Terrance", 1)
         
         
